@@ -1,4 +1,4 @@
-# Proyecto de Análisis Estadístico y Exploratorio de Datos usando las APIS de JSONPlaceholder y TheSportsDB
+# Proyecto de LP2: Analisis Estadistico y Exploratorio de Datos usando las APIS de JSONPlaceholder y TheSportsDB
 
 Alumno: Ferro Choque Alvaro 20221398
 
